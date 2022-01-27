@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Photo of a Dragon](https://es.web.img3.acsta.net/newsv7/21/05/20/19/43/3423101.jpg)
